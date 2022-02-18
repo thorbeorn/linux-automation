@@ -8,3 +8,14 @@ this project aims to provide a bash script for linux capable of automating basic
 - Converter
 - Software
 - Update
+
+## Usage/Examples
+
+Networking features
+```BASH
+  ./linux-automation/Networking/menu_Networking.sh
+```
+Converter
+```BASH
+  ./linux-automation/Converter/menu_Converter.sh
+```
