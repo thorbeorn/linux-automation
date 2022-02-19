@@ -26,6 +26,10 @@ Converter
 ```BASH
   ./linux-automation/Converter/menu_Converter.sh
 ```
+Update/Upgrade
+```BASH
+  ./linux-automation/Update/menu_update.sh
+```
 
 ## Contact
 If you have any problems or concerns, please contact either :
