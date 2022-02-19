@@ -30,6 +30,10 @@ Update/Upgrade
 ```BASH
   ./linux-automation/Update/menu_update.sh
 ```
+Update/Upgrade
+```BASH
+  ./linux-automation/Software/menu_software.sh
+```
 
 ## Contact
 If you have any problems or concerns, please contact either :
